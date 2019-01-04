@@ -1,0 +1,61 @@
+/*
+Elements
+**********************************
+id:
+    weekend
+    weekdays
+    sunday
+    monday
+    tuesday
+    wednesday
+    thursday
+    friday
+    saturday
+*/
+
+
+#weekend {
+    max-width: 70%;
+    max-height: auto;
+    margin-left: 40px;
+    background-color: lightgreen;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+#weekdays{
+    max-width: 70%;
+    max-height: auto;
+    margin-left: 40px;
+    background-color: lightcoral;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#text {
+    color: white;
+    font-family: Montserrat;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+#weekend h1 {
+    font-family: Montserrat;
+    color: lightslategray;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+#weekdays h1 {
+    font-family: Montserrat;
+    color: lightslategray;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+span {
+    color: darkslategray;
+}
